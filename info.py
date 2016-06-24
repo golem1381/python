@@ -1,7 +1,3 @@
-#info bot created by negative
-#info bot created by negative
-#info bot created by negative
-#info bot created by negative
 import telebot
 from telebot import types
 import sys
